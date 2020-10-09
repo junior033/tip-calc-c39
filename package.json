@@ -1,0 +1,11 @@
+{
+  "name": "tip-calc",
+  "version": "1.0.0",
+  "main": "tip-calc.js",
+  "repository": "https://github.com/junior033/tip-calc-c39.git",
+  "author": "Marlon Angulo <Marlonangulo001@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
